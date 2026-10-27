@@ -4,5 +4,5 @@ Public homepage and privacy policy for **Hermes Personal**, Ridhul Vidhul’s pr
 
 Live pages (use these URLs in Google Cloud Branding):
 
-- Homepage: https://ridhulvidhul76-oss.github.io/hermes-personal-oauth/
-- Privacy policy: https://ridhulvidhul76-oss.github.io/hermes-personal-oauth/privacy.html
+- Homepage: https://r1dhll.github.io/hermes-personal-oauth/
+- Privacy policy: https://r1dhll.github.io/hermes-personal-oauth/privacy.html
